@@ -38,45 +38,17 @@
 
 | # | Sección | Descripción |
 |:-:|---|---|
-| 1 | 🏫 [Materia](#-materia) | Asignatura correspondiente al trabajo |
-| 2 | 👨‍🏫 [Profesores](#-profesores) | Docentes a cargo |
-| 3 | 👨‍🎓 [Alumno](#-alumno) | Estudiante responsable |
-| 4 | 🗃️ [Base de datos](#-base-de-datos-utilizada) | Dataset utilizado |
-| 5 | 🎯 [Objetivo](#-objetivo-del-trabajo) | Finalidad del trabajo |
-| 6 | 🧠 [Conceptos aplicados](#-conceptos-aplicados) | Temas SQL utilizados |
-| 7 | 📂 [Tablas utilizadas](#-tablas-utilizadas) | Tablas principales de Sakila |
-| 8 | 📌 [Ejercicios](#-ejercicios) | Descripción de cada vista creada |
-| 9 | ⚠️ [Consideraciones](#-consideraciones-importantes) | Notas técnicas y optimización |
-| 10 | 📁 [Archivos del repo](#-archivos-del-repositorio) | Estructura del proyecto |
-| 11 | 📚 [Fuentes](#-fuentes) | Material de referencia |
-| 12 | 🧾 [Observaciones](#-observaciones-finales) | Cierre del informe |
+| 1 | 🗃️ [Base de datos](#-base-de-datos-utilizada) | Dataset utilizado |
+| 2 | 🎯 [Objetivo](#-objetivo-del-trabajo) | Finalidad del trabajo |
+| 3 | 🧠 [Conceptos aplicados](#-conceptos-aplicados) | Temas SQL utilizados |
+| 4 | 📂 [Tablas utilizadas](#-tablas-utilizadas) | Tablas principales de Sakila |
+| 5 | 📌 [Ejercicios](#-ejercicios) | Descripción de cada vista creada |
+| 6 | ⚠️ [Consideraciones](#-consideraciones-importantes) | Notas técnicas y optimización |
+| 7 | 📁 [Archivos del repo](#-archivos-del-repositorio) | Estructura del proyecto |
+| 8 | 📚 [Fuentes](#-fuentes) | Material de referencia |
+| 9 | 🧾 [Observaciones](#-observaciones-finales) | Cierre del informe |
 
 </div>
-
-<p align="center">
-  <img src="https://i.imgur.com/zDTIHyR.png" width="100%">
-</p>
-
-## 🏫 Materia
-
-**Base de Datos 2** — Instituto Técnico Salesiano Villada
-
-<p align="center">
-  <img src="https://i.imgur.com/zDTIHyR.png" width="100%">
-</p>
-
-## 👨‍🏫 Profesores
-
-- Nose (cambio de profe)
-- Teodoro Reyna
-
-<p align="center">
-  <img src="https://i.imgur.com/zDTIHyR.png" width="100%">
-</p>
-
-## 👨‍🎓 Alumno
-
-- Bruno Segura
 
 <p align="center">
   <img src="https://i.imgur.com/zDTIHyR.png" width="100%">
