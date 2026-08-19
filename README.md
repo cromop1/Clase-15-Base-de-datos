@@ -18,9 +18,6 @@
   <img src="https://img.shields.io/badge/Lenguaje-SQL-F97316?style=flat-square&logo=databricks&logoColor=white">
 </p>
 
-<p align="center">
-  <img src="https://i.imgur.com/zDTIHyR.png" width="100%">
-</p>
 
 ---
 
