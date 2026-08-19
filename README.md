@@ -1,4 +1,15 @@
 <p align="center">
+  <img src="https://i.imgur.com/OJxpSbo.png" width="100%">
+</p>
+
+
+
+<p align="center">
+  <img src="https://i.imgur.com/RVGaecC.png" width="100%">
+</p>
+
+
+<p align="center">
   <img src="https://img.shields.io/badge/Trabajo%20Acad%C3%A9mico-ITS%20Villada-blue?style=for-the-badge&logo=graduation-cap">
   <img src="https://img.shields.io/badge/Clase-15-6366F1?style=for-the-badge">
   <img src="https://img.shields.io/badge/Estado-Completo-22C55E?style=for-the-badge">
